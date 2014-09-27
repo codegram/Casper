@@ -7,3 +7,12 @@ a {
 a:hover {
   color: #fd030c;
 }
+
+.page-title{
+  color: #db2e34;
+}
+
+.page-description{
+  color: rgba(255,255,255);
+  font-size: 2.5rem;
+}
