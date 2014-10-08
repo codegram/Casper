@@ -1,5 +1,4 @@
 .post-header h1,
-.home-template h2,
 .home-template h1,
 a {
   color: #db2e34;
@@ -16,4 +15,3 @@ a:hover {
 .page-description{
   color: rgba(255,255,255);
   text-shadow: rgba(0,0,0,0.15) 0px 0px 10px;
-}
